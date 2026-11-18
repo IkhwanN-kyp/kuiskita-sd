@@ -1,0 +1,8 @@
+export const arabUnits=[
+{id:"tempat",title:"Bangunan dan Tempat",arab:"الْمَبْنَى وَالْمَكَان",unit:"Unit 5",pages:"45–47",words:[
+["مَسْجِدٌ","masjidun","masjid","🕌"],["مَدْرَسَةٌ","madrasatun","sekolah","🏫"],["مَكْتَبَةٌ","maktabatun","perpustakaan","📚"],["بَيْتٌ","baitun","rumah","🏠"],["سُوقٌ","suuqun","pasar","🛒"],["مُسْتَشْفًى","mustasyfaa","rumah sakit","🏥"],["دُكَّانٌ","dukkaanun","toko","🏪"],["فُنْدُقٌ","funduqun","hotel","🏨"],["هَيْكَلٌ","haikalun","candi","🏛️"],["مَطَارٌ","mathaarun","bandara","✈️"]]},
+{id:"alam",title:"Benda-Benda Alam Semesta",arab:"الْعَالَمُ",unit:"Unit 6",pages:"54–61",words:[
+["جَبَلٌ","jabalun","gunung","⛰️"],["هَضْبَةٌ","hadhbatun","bukit","🏞️"],["سَمَاءٌ","samaa-un","langit","🌌"],["بَحْرٌ","bahrun","laut","🌊"],["سَاحِلٌ","saahilun","pantai","🏖️"],["غَابَةٌ","ghaabatun","hutan","🌲"],["مَطَرٌ","matharun","hujan","🌧️"],["نَجْمٌ","najmun","bintang","⭐"],["نَهْرٌ","nahrun","sungai","🏞️"],["ثَلْجٌ","tsaljun","salju","❄️"],["صَاعِقَةٌ","shaa-iqatun","petir","⚡"],["قَمَرٌ","qamarun","bulan","🌙"],["سَحَابٌ","sahaabun","awan","☁️"],["شَمْسٌ","syamsun","matahari","☀️"]]},
+{id:"pekerjaan",title:"Pekerjaan",arab:"الْمِهْنَةُ",unit:"Bab Pekerjaan",pages:"64–65",words:[
+["مُهَنْدِسٌ","muhandisun","arsitek","📐"],["مُذِيعٌ","mudzi'un","penyiar","🎙️"],["فَلَكِيٌّ","falakiyyun","astronom","🔭"],["طَيَّارٌ","thayyaarun","pilot","👨‍✈️"],["صَيَّادٌ","shayyaadun","nelayan","🎣"],["مُمَرِّضَةٌ","mumarridhatun","perawat","👩‍⚕️"],["خَيَّاطَةٌ","khayyaathatun","penjahit","🧵"],["فَنَّانٌ","fannaanun","seniman","🎨"],["طَبَّاخٌ","thabbaakhun","koki","👨‍🍳"],["جُنْدِيٌّ","jundiyyun","tentara","🪖"]]}
+];
